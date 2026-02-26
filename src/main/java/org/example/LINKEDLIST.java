@@ -1,6 +1,6 @@
 package org.example;
-import java.util.LinkedList;
- class sll {
+
+class sll {
      static class Node {
          int data;
          Node next;
